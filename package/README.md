@@ -72,3 +72,5 @@ for (i=0; i<currentStatus.length; i++) {
 console.log('\n');
 
 ```
+#### Results
+![Alt text](resources/systemd-status.png?raw=true "Title")
